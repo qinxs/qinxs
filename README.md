@@ -1,9 +1,5 @@
-### Hi there 👋
-
 <!--
-**qinxs/qinxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Some ideas:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +10,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="center">Hello! I'm qinxs👋 </h3>
+
+<p align="center">
+  <a href="https://7bxing.com/">Blog</a> •
+  <a href="https://nav.7bxing.com/">WebStack</a> •
+  <a href="https://github.com/qinxs">GitHub</a>
+</p>
+
+
+<div align="center">
+
+<h3>:chart_with_upwards_trend:Github Stats:chart_with_upwards_trend:</h3>
+
+<a href="#" title="GitHub Stats">
+  <img src="https://github-stats.7bxing.com/api?username=qinxs&show_icons=true&count_private=true">
+</a>
+<br/>
+
+<a href="#"  title="Most Used Languages">
+  <img src="https://github-stats.7bxing.com/api/top-langs/?username=qinxs&count_private=true&layout=compact">
+</a>
+
+</div>
+
+Support: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
