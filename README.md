@@ -30,7 +30,7 @@ Some ideas:
 <br/>
 
 <a href="#"  title="Most Used Languages">
-  <img src="https://github-stats.7bxing.com/api/top-langs/?username=qinxs&count_private=true&layout=compact">
+  <img src="https://github-stats.7bxing.com/api/top-langs/?username=qinxs&count_private=true&layout=compact&hide=html">
 </a>
 
 </div>
